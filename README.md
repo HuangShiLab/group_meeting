@@ -1,7 +1,5 @@
 # group_meeting
 
-# group_meeting
-
 Welcome to the [Group meetings](https://github.com/HuangShiLab/group_meeting/) of Huang Shi's Lab at the Faculty of Dentistry, the University of Hong Kong.
 
 Materials are stored in this GitHub repo: 
