@@ -11,4 +11,4 @@ Materials are stored in this GitHub repo:
 
 Edit the Google Sheets of the [schedule](https://docs.google.com/spreadsheets/d/1De7n_jrXhOOVZITy9TrhSxOud5mA6H8y/edit#gid=21459879)
 
-Look through the Google Sheets of the [schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8MsXuSOa5JFinyCMMbdZsHNDlE-HmQtHZtgj97iKw4lJ5pzEvPIuNVK4u70R2JQ/pubhtml?gid=21459879&single=true)
+Look through the Google Sheets of the [schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8MsXuSOa5JFinyCMMbdZsHNDlE-HmQtHZtgj97iKw4lJ5pzEvPIuNVK4u70R2JQ/pubhtml?widget=true&amp;headers=false)
